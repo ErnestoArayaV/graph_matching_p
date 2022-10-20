@@ -41,8 +41,11 @@ Code with methods for reproducing the results in paper "Seeded graph matching fo
 
 Contains:
 -GM methods = Projected Power Methods and other more classic methods for seedless graph matching.
+
 -GM generative models = models for generating correlated graphs (matrices), according to the correlated Gaussian Wigner, correlated Erdos-Renyi, correlated Random Geometric graphs models. 
+
 -aux methods = several useful functions. 
+
 -Python Notebooks with (minimal) examples of use. 
 
 
