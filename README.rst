@@ -34,10 +34,17 @@ graph_matching_p
 ================
 
 
-    Add a short description here!
+    Python package with Graph Matching (GM) methods.
 
 
-A longer description of your project goes here...
+Code with methods for reproducing the results in paper "Seeded graph matching for the correlated Wigner model via the projected power method",arXiv:2204.04099. 
+
+Contains:
+-GM methods = Projected Power Methods and other more classic methods for seedless graph matching.
+-GM generative models = models for generating correlated graphs (matrices), according to the correlated Gaussian Wigner, correlated Erdos-Renyi, correlated Random Geometric graphs models. 
+-aux methods = several useful functions. 
+-Python Notebooks with (minimal) examples of use. 
+
 
 
 .. _pyscaffold-notes:
